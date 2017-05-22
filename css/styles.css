@@ -1,0 +1,81 @@
+p {
+font-family: sans-serif;
+    font-size: 1.2em;
+}
+
+h1 {font-family: serif;
+    font-size: 2em;
+}
+
+p.important {
+    font-size: 1.5em;
+    font-weight: 900;
+}
+
+h3.bigger {
+    font-size: 2.5em;
+}
+
+.typewriter {
+    font-family: "Courier New", Courier, monospace;
+}
+
+p.standout {
+    font-style: italic
+}
+
+h4.special {
+    font-style: italic;
+}
+
+.emphasized {
+    font-style: italic;
+}
+
+.standout {
+    color: red;
+}
+
+h2 {
+    word-spacing: 1em;
+    line-height: 2em;
+    text-align: center;
+    text-indent: 1em;
+    margin: 3em;
+}
+
+p.boxed {
+    border: 5px solid red;
+}
+
+.enclosed {
+    border: 10px groove #0000ff;
+    padding: 3em 10em 0em 1em;
+}
+
+body {
+    border: 1px solid green;
+}
+
+div#test {
+    font-family: "Arial", "Helvetica", sans-serif;
+    margin: 0 15em 0 15em;
+    border: 1px dotted blue;
+}
+
+img.owns-its-own-line {
+    display: block;
+    margin-left: 3em
+}
+
+img.middle {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img.wrap {
+    float: left;
+    margin-left: 15em;
+    margin-right: 5em;
+}
